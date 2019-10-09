@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="dbcab2ac-f872-4343-a6c9-a672d552275b" name="Default Changelist" comment="" />
+    <list default="true" id="dbcab2ac-f872-4343-a6c9-a672d552275b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/longestNonReSubSeq.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Calculate.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/CalculateTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Calculate.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/cal.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/CalculateTest.class" beforeDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -25,32 +33,32 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/Calculate.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/MidNum.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-              <folding>
-                <element signature="e#37#38#0" expanded="true" />
-                <element signature="e#78#79#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="225">
+              <caret line="9" column="25" selection-start-line="9" selection-start-column="25" selection-end-line="9" selection-end-column="25" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/MidNum.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/LongestNonReSubSeq.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="9" column="25" lean-forward="true" selection-start-line="9" selection-start-column="25" selection-end-line="9" selection-end-column="25" />
+            <state relative-caret-position="331">
+              <caret line="25" column="95" selection-start-line="25" selection-start-column="95" selection-end-line="25" selection-end-column="95" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#180#181#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/test/java/MidNumTest.java">
+        <entry file="file://$PROJECT_DIR$/src/test/java/LongestNonReSubSeqTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="250">
-              <caret line="10" column="19" lean-forward="true" selection-start-line="10" selection-start-column="19" selection-end-line="10" selection-end-column="19" />
+            <state relative-caret-position="400">
+              <caret line="33" column="22" selection-start-line="33" selection-start-column="22" selection-end-line="33" selection-end-column="22" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -59,10 +67,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/CalculateTest.java">
+        <entry file="file://$PROJECT_DIR$/src/test/java/MidNumTest.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="225">
-              <caret line="9" column="25" lean-forward="true" selection-start-line="9" selection-start-column="25" selection-end-line="9" selection-end-column="25" />
+              <caret line="9" column="18" selection-start-line="9" selection-start-column="18" selection-end-line="9" selection-end-column="18" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -84,6 +92,9 @@
       <find>pp</find>
     </findStrings>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -93,15 +104,19 @@
         <option value="$PROJECT_DIR$/src/test/java/calTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/MidNum.java" />
         <option value="$PROJECT_DIR$/src/test/java/MidNumTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/longestNonReSubSeq.java" />
+        <option value="$PROJECT_DIR$/src/main/java/LongestNonReSubSeq.java" />
+        <option value="$PROJECT_DIR$/src/test/java/LongestNonReSubSeqTest.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
+  <component name="ProjectFrameBounds">
     <option name="x" value="-8" />
     <option name="y" value="-8" />
     <option name="width" value="1382" />
     <option name="height" value="744" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -138,14 +153,6 @@
               <item name="JavaTest" type="b2602c69:ProjectViewProjectNode" />
               <item name="java_project" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="Calculate.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
-            </path>
-            <path>
-              <item name="JavaTest" type="b2602c69:ProjectViewProjectNode" />
-              <item name="java_project" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -166,6 +173,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
@@ -187,7 +195,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.MidNumTest.testFindMidNum">
+  <component name="RunManager" selected="JUnit.LongestNonReSubSeqTest.testFindLengthOfSubSeq">
     <configuration name="CalculateTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="java_project" />
       <option name="PACKAGE_NAME" value="" />
@@ -207,6 +215,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="LongestNonReSubSeqTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="java_project" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="LongestNonReSubSeqTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LongestNonReSubSeqTest.testFindLengthOfSubSeq" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="java_project" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="LongestNonReSubSeqTest" />
+      <option name="METHOD_NAME" value="testFindLengthOfSubSeq" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="MidNumTest.testFindMidNum" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="java_project" />
       <option name="PACKAGE_NAME" value="" />
@@ -219,6 +246,8 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.LongestNonReSubSeqTest.testFindLengthOfSubSeq" />
+        <item itemvalue="JUnit.LongestNonReSubSeqTest" />
         <item itemvalue="JUnit.MidNumTest.testFindMidNum" />
         <item itemvalue="JUnit.CalculateTest.testPp" />
         <item itemvalue="JUnit.CalculateTest" />
@@ -241,17 +270,11 @@
       <workItem from="1569720768339" duration="877000" />
       <workItem from="1569807149629" duration="593000" />
       <workItem from="1570497965360" duration="588000" />
-      <workItem from="1570584882398" duration="2958000" />
+      <workItem from="1570584882398" duration="6349000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="CalculateTest - 2019.09.26 at 11h 25m 41s.xml">
-      <configuration name="CalculateTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="CalculateTest - 2019.09.26 at 11h 26m 20s.xml">
-      <configuration name="CalculateTest" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="CalculateTest_testPp - 2019.09.26 at 11h 36m 15s.xml">
       <configuration name="CalculateTest.testPp" configurationId="JUnit" />
     </history-entry>
@@ -264,9 +287,27 @@
     <history-entry file="MidNumTest_testFindMidNum - 2019.10.09 at 10h 57m 19s.xml">
       <configuration name="MidNumTest.testFindMidNum" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="LongestNonReSubSeqTest - 2019.10.09 at 14h 17m 45s.xml">
+      <configuration name="LongestNonReSubSeqTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="LongestNonReSubSeqTest - 2019.10.09 at 14h 19m 23s.xml">
+      <configuration name="LongestNonReSubSeqTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="LongestNonReSubSeqTest - 2019.10.09 at 14h 19m 51s.xml">
+      <configuration name="LongestNonReSubSeqTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="LongestNonReSubSeqTest - 2019.10.09 at 14h 20m 05s.xml">
+      <configuration name="LongestNonReSubSeqTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="LongestNonReSubSeqTest_testFindLengthOfSubSeq - 2019.10.09 at 14h 23m 30s.xml">
+      <configuration name="LongestNonReSubSeqTest.testFindLengthOfSubSeq" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="LongestNonReSubSeqTest - 2019.10.09 at 14h 27m 28s.xml">
+      <configuration name="LongestNonReSubSeqTest" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8787000" />
+    <option name="totallyTimeSpent" value="12178000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="0" />
@@ -281,7 +322,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.34697217" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -291,7 +332,7 @@
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Terminal" order="10" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="12" weight="0.3289689" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.32786885" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -328,13 +369,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/MidNum.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="9" column="25" lean-forward="true" selection-start-line="9" selection-start-column="25" selection-end-line="9" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/CalculateTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="225">
@@ -347,8 +381,36 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/MidNumTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="250">
-          <caret line="10" column="19" lean-forward="true" selection-start-line="10" selection-start-column="19" selection-end-line="10" selection-end-column="19" />
+        <state relative-caret-position="225">
+          <caret line="9" column="18" selection-start-line="9" selection-start-column="18" selection-end-line="9" selection-end-column="18" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/MidNum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="9" column="25" selection-start-line="9" selection-start-column="25" selection-end-line="9" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/LongestNonReSubSeq.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="331">
+          <caret line="25" column="95" selection-start-line="25" selection-start-column="95" selection-end-line="25" selection-end-column="95" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#180#181#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/LongestNonReSubSeqTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="400">
+          <caret line="33" column="22" selection-start-line="33" selection-start-column="22" selection-end-line="33" selection-end-column="22" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
