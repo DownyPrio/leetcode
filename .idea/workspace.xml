@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dbcab2ac-f872-4343-a6c9-a672d552275b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/zShapeString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/LongestRetryDocSubSeq.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -18,15 +18,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pom.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="400">
-              <caret line="16" column="23" selection-start-line="16" selection-start-column="23" selection-end-line="16" selection-end-column="23" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/MidNum.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -66,17 +57,52 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/zShapeString.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="275">
-              <caret line="28" column="71" selection-start-line="28" selection-start-column="71" selection-end-line="28" selection-end-column="71" />
+            <state relative-caret-position="800">
+              <caret line="32" column="13" lean-forward="true" selection-start-line="32" selection-start-column="13" selection-end-line="32" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/LongestRetryDocSubSeq.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="425">
+              <caret line="37" column="12" selection-start-line="37" selection-start-column="12" selection-end-line="37" selection-end-column="12" />
+              <folding>
+                <element signature="e#105#106#0" expanded="true" />
+                <element signature="e#124#125#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/LongestRetryDocSubSeqTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="40">
+              <caret line="35" column="18" selection-start-line="35" selection-start-column="18" selection-end-line="35" selection-end-column="18" />
+              <folding>
+                <element signature="e#341#342#0" expanded="true" />
+                <element signature="e#358#359#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://D:/JDK/src.zip!/java/lang/String.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="127">
+              <caret line="657" selection-start-line="657" selection-end-line="657" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/zShapeStringTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="125">
-              <caret line="36" column="44" selection-start-line="36" selection-start-column="44" selection-end-line="36" selection-end-column="44" />
+            <state relative-caret-position="235">
+              <caret line="37" lean-forward="true" selection-start-line="37" selection-end-line="37" />
             </state>
           </provider>
         </entry>
@@ -86,18 +112,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="109">
               <caret line="37" lean-forward="true" selection-start-line="37" selection-end-line="37" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/LongestNonReSubSeqTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="310">
-              <caret line="38" selection-start-line="38" selection-end-line="38" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -147,6 +161,8 @@
         <option value="$PROJECT_DIR$/src/test/java/ReverseNumTest.java" />
         <option value="$PROJECT_DIR$/src/test/java/zShapeStringTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/zShapeString.java" />
+        <option value="$PROJECT_DIR$/src/test/java/LongestRetryDocSubSeqTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/LongestRetryDocSubSeq.java" />
       </list>
     </option>
   </component>
@@ -235,21 +251,21 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.zShapeStringTest.testTestZStr">
-    <configuration name="LongestNonReSubSeqTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.LongestRetryDocSubSeqTest.testFindLongest">
+    <configuration name="LongestRetryDocSubSeqTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="java_project" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="LongestNonReSubSeqTest" />
+      <option name="MAIN_CLASS_NAME" value="LongestRetryDocSubSeqTest" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LongestNonReSubSeqTest.testFindLengthOfSubSeq" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="LongestRetryDocSubSeqTest.testFindLongest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="java_project" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="LongestNonReSubSeqTest" />
-      <option name="METHOD_NAME" value="testFindLengthOfSubSeq" />
+      <option name="MAIN_CLASS_NAME" value="LongestRetryDocSubSeqTest" />
+      <option name="METHOD_NAME" value="testFindLongest" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -286,11 +302,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.LongestRetryDocSubSeqTest.testFindLongest" />
+        <item itemvalue="JUnit.LongestRetryDocSubSeqTest" />
         <item itemvalue="JUnit.zShapeStringTest.testTestZStr" />
         <item itemvalue="JUnit.ReverseNumTest.testReverse" />
         <item itemvalue="JUnit.ReverseNumTest" />
-        <item itemvalue="JUnit.LongestNonReSubSeqTest.testFindLengthOfSubSeq" />
-        <item itemvalue="JUnit.LongestNonReSubSeqTest" />
       </list>
     </recent_temporary>
   </component>
@@ -311,7 +327,7 @@
       <workItem from="1569807149629" duration="593000" />
       <workItem from="1570497965360" duration="588000" />
       <workItem from="1570584882398" duration="7515000" />
-      <workItem from="1570670781299" duration="3743000" />
+      <workItem from="1570670781299" duration="9352000" />
     </task>
     <task id="LOCAL-00001" summary="find longest non-re sub-seq length.">
       <created>1570602689872</created>
@@ -324,45 +340,44 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="ReverseNumTest_testReverse - 2019.10.10 at 10h 15m 28s.xml">
-      <configuration name="ReverseNumTest.testReverse" configurationId="JUnit" />
+    <history-entry file="LongestRetryDocSubSeqTest_testFindLongest - 2019.10.10 at 15h 19m 24s.xml">
+      <configuration name="LongestRetryDocSubSeqTest.testFindLongest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ReverseNumTest_testReverse - 2019.10.10 at 10h 15m 43s.xml">
-      <configuration name="ReverseNumTest.testReverse" configurationId="JUnit" />
+    <history-entry file="LongestRetryDocSubSeqTest_testFindLongest - 2019.10.10 at 15h 20m 50s.xml">
+      <configuration name="LongestRetryDocSubSeqTest.testFindLongest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ReverseNumTest_testReverse - 2019.10.10 at 10h 16m 21s.xml">
-      <configuration name="ReverseNumTest.testReverse" configurationId="JUnit" />
+    <history-entry file="LongestRetryDocSubSeqTest_testFindLongest - 2019.10.10 at 15h 37m 26s.xml">
+      <configuration name="LongestRetryDocSubSeqTest.testFindLongest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ReverseNumTest_testReverse - 2019.10.10 at 10h 17m 16s.xml">
-      <configuration name="ReverseNumTest.testReverse" configurationId="JUnit" />
+    <history-entry file="LongestRetryDocSubSeqTest - 2019.10.10 at 15h 39m 24s.xml">
+      <configuration name="LongestRetryDocSubSeqTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ReverseNumTest_testReverse - 2019.10.10 at 10h 20m 20s.xml">
-      <configuration name="ReverseNumTest.testReverse" configurationId="JUnit" />
+    <history-entry file="LongestRetryDocSubSeqTest - 2019.10.10 at 15h 40m 00s.xml">
+      <configuration name="LongestRetryDocSubSeqTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="zShapeStringTest_testTestZStr - 2019.10.10 at 11h 07m 13s.xml">
-      <configuration name="zShapeStringTest.testTestZStr" configurationId="JUnit" />
+    <history-entry file="LongestRetryDocSubSeqTest_testFindLongest - 2019.10.10 at 15h 46m 07s.xml">
+      <configuration name="LongestRetryDocSubSeqTest.testFindLongest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="zShapeStringTest_testTestZStr - 2019.10.10 at 11h 08m 39s.xml">
-      <configuration name="zShapeStringTest.testTestZStr" configurationId="JUnit" />
+    <history-entry file="LongestRetryDocSubSeqTest_testFindLongest - 2019.10.10 at 15h 47m 55s.xml">
+      <configuration name="LongestRetryDocSubSeqTest.testFindLongest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="zShapeStringTest_testTestZStr - 2019.10.10 at 11h 08m 42s.xml">
-      <configuration name="zShapeStringTest.testTestZStr" configurationId="JUnit" />
+    <history-entry file="LongestRetryDocSubSeqTest_testFindLongest - 2019.10.10 at 15h 49m 40s.xml">
+      <configuration name="LongestRetryDocSubSeqTest.testFindLongest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="zShapeStringTest_testTestZStr - 2019.10.10 at 11h 09m 13s.xml">
-      <configuration name="zShapeStringTest.testTestZStr" configurationId="JUnit" />
+    <history-entry file="LongestRetryDocSubSeqTest_testFindLongest - 2019.10.10 at 15h 52m 34s.xml">
+      <configuration name="LongestRetryDocSubSeqTest.testFindLongest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="zShapeStringTest_testTestZStr - 2019.10.10 at 11h 10m 18s.xml">
-      <configuration name="zShapeStringTest.testTestZStr" configurationId="JUnit" />
+    <history-entry file="LongestRetryDocSubSeqTest_testFindLongest - 2019.10.10 at 15h 53m 28s.xml">
+      <configuration name="LongestRetryDocSubSeqTest.testFindLongest" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="17087000" />
+    <option name="totallyTimeSpent" value="22696000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="0" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.27609682" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.27609682" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -371,7 +386,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.39508197" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.62786883" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -379,7 +394,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" weight="0.3295082" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" weight="0.119672135" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.10819672" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="12" weight="0.32786885" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -440,10 +455,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/MidNum.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/zShapeStringTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="9" column="25" selection-start-line="9" selection-start-column="25" selection-end-line="9" selection-end-column="25" />
+        <state relative-caret-position="235">
+          <caret line="37" lean-forward="true" selection-start-line="37" selection-end-line="37" />
         </state>
       </provider>
     </entry>
@@ -455,6 +470,13 @@
             <element signature="e#77#78#0" expanded="true" />
             <element signature="e#96#97#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/MidNum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="9" column="25" selection-start-line="9" selection-start-column="25" selection-end-line="9" selection-end-column="25" />
         </state>
       </provider>
     </entry>
@@ -472,15 +494,37 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/zShapeString.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="275">
-          <caret line="28" column="71" selection-start-line="28" selection-start-column="71" selection-end-line="28" selection-end-column="71" />
+        <state relative-caret-position="800">
+          <caret line="32" column="13" lean-forward="true" selection-start-line="32" selection-start-column="13" selection-end-line="32" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/zShapeStringTest.java">
+    <entry file="jar://D:/JDK/src.zip!/java/lang/String.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="125">
-          <caret line="36" column="44" selection-start-line="36" selection-start-column="44" selection-end-line="36" selection-end-column="44" />
+        <state relative-caret-position="127">
+          <caret line="657" selection-start-line="657" selection-end-line="657" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/LongestRetryDocSubSeqTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="40">
+          <caret line="35" column="18" selection-start-line="35" selection-start-column="18" selection-end-line="35" selection-end-column="18" />
+          <folding>
+            <element signature="e#341#342#0" expanded="true" />
+            <element signature="e#358#359#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/LongestRetryDocSubSeq.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="37" column="12" selection-start-line="37" selection-start-column="12" selection-end-line="37" selection-end-column="12" />
+          <folding>
+            <element signature="e#105#106#0" expanded="true" />
+            <element signature="e#124#125#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
