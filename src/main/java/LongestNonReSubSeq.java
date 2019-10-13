@@ -9,6 +9,8 @@ public class LongestNonReSubSeq {
     }
 
     public int findLengthOfSubSeq() {
+		if(str.length()==0)
+			return 0;
         if (str.length() == 1)
             return 1;
         int indexFirst = 0;
@@ -23,7 +25,7 @@ public class LongestNonReSubSeq {
                 indexSecond++;
             }
             else {
-                maxlen = indexSecond - indexFirst > maxlen ? indexSecond - indexFirst+1: maxlen;
+                maxlen = indexSecond - indexFirst+1 > maxlen ? indexSecond - indexFirst+1: maxlen;
                 indexSecond++;
             }
         }
