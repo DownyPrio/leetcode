@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dbcab2ac-f872-4343-a6c9-a672d552275b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/Int2Roma.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/MaxWaterVolume.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Roma2Int.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Atoi.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Atoi.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -21,39 +19,9 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/ReverseNumTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="825">
-              <caret line="37" selection-start-line="37" selection-end-line="37" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/MidNumTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="175">
-              <caret line="9" column="18" selection-start-line="9" selection-start-column="18" selection-end-line="9" selection-end-column="18" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/PatternMatchTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="875">
-              <caret line="39" column="2" selection-start-line="39" selection-start-column="2" selection-end-line="39" selection-end-column="2" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/MaxWaterVolume.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="246">
+            <state relative-caret-position="525">
               <caret line="24" column="22" selection-start-line="24" selection-start-column="22" selection-end-line="24" selection-end-column="22" />
               <folding>
                 <element signature="e#106#107#0" expanded="true" />
@@ -66,8 +34,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/MaxWaterVolumeTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="35" column="19" selection-start-line="35" selection-start-column="19" selection-end-line="35" selection-end-column="19" />
+            <state relative-caret-position="825">
+              <caret line="37" column="2" selection-start-line="37" selection-start-column="2" selection-end-line="37" selection-end-column="2" />
             </state>
           </provider>
         </entry>
@@ -75,35 +43,58 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/Roma2Int.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="191">
+            <state relative-caret-position="650">
               <caret line="30" column="21" selection-start-line="30" selection-start-column="21" selection-end-line="30" selection-end-column="21" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#84#85#0" expanded="true" />
-                <element signature="e#103#104#0" expanded="true" />
-                <element signature="e#242#261#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/Roma2IntTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="100">
+              <caret line="6" column="4" selection-start-line="6" selection-start-column="4" selection-end-line="6" selection-end-column="4" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="400">
+              <caret line="16" column="23" selection-start-line="16" selection-start-column="23" selection-end-line="16" selection-end-column="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/AtoiTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="725">
+              <caret line="33" column="28" selection-start-line="33" selection-start-column="28" selection-end-line="33" selection-end-column="28" />
+              <folding>
+                <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/test/java/Roma2IntTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="475">
-              <caret line="38" lean-forward="true" selection-start-line="38" selection-end-line="38" />
-            </state>
-          </provider>
+        <entry file="file://$PROJECT_DIR$/src/main/java/Atoi.java">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/Int2Roma.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="200">
-              <caret line="74" column="9" lean-forward="true" selection-start-line="74" selection-start-column="9" selection-end-line="74" selection-end-column="9" />
+            <state relative-caret-position="1800">
+              <caret line="74" column="9" selection-start-line="74" selection-start-column="9" selection-end-line="74" selection-end-column="9" />
               <folding>
                 <element signature="e#73#74#0" expanded="true" />
-                <element signature="e#92#93#0" expanded="true" />
+                <element signature="e#101#102#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -112,8 +103,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/Int2RomaTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="235">
-              <caret line="35" column="26" selection-start-line="35" selection-start-column="26" selection-end-line="35" selection-end-column="26" />
+            <state relative-caret-position="725">
+              <caret line="33" column="14" selection-start-line="33" selection-start-column="14" selection-end-line="33" selection-end-column="14" />
             </state>
           </provider>
         </entry>
@@ -167,7 +158,6 @@
         <option value="$PROJECT_DIR$/src/main/java/zShapeString.java" />
         <option value="$PROJECT_DIR$/src/test/java/LongestRetryDocSubSeqTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/LongestRetryDocSubSeq.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Atoi.java" />
         <option value="$PROJECT_DIR$/src/test/java/AtoiTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/RetryNum.java" />
         <option value="$PROJECT_DIR$/src/test/java/RetryNumTest.java" />
@@ -177,10 +167,22 @@
         <option value="$PROJECT_DIR$/src/test/java/MaxWaterVolumeTest.java" />
         <option value="$PROJECT_DIR$/src/test/java/Roma2IntTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/Roma2Int.java" />
-        <option value="$PROJECT_DIR$/src/test/java/Int2RomaTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/Int2Roma.java" />
+        <option value="$PROJECT_DIR$/src/test/java/Int2RomaTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Atoi.java" />
       </list>
     </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="JavaTest" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
   </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="-8" />
@@ -194,6 +196,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
@@ -241,7 +244,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -348,7 +350,9 @@
       <workItem from="1570670781299" duration="10731000" />
       <workItem from="1570756469166" duration="10551000" />
       <workItem from="1570843425724" duration="3395000" />
-      <workItem from="1570847896044" duration="4157000" />
+      <workItem from="1570847896044" duration="4893000" />
+      <workItem from="1570868642346" duration="1830000" />
+      <workItem from="1571016800902" duration="590000" />
     </task>
     <task id="LOCAL-00001" summary="find longest non-re sub-seq length.">
       <created>1570602689872</created>
@@ -378,16 +382,17 @@
       <option name="project" value="LOCAL" />
       <updated>1570777110748</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="1.int2Roma&#10;2.Roma2Int&#10;3.MaxWaterVolume">
+      <created>1570860529318</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1570860529318</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="MaxWaterVolumeTest_testFindMax - 2019.10.12 at 10h 39m 49s.xml">
-      <configuration name="MaxWaterVolumeTest.testFindMax" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="MaxWaterVolumeTest_testFindMax - 2019.10.12 at 10h 41m 45s.xml">
-      <configuration name="MaxWaterVolumeTest.testFindMax" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="MaxWaterVolumeTest_testFindMax - 2019.10.12 at 10h 42m 46s.xml">
       <configuration name="MaxWaterVolumeTest.testFindMax" configurationId="JUnit" />
     </history-entry>
@@ -412,15 +417,20 @@
     <history-entry file="Int2RomaTest_testInt2roma - 2019.10.12 at 11h 39m 53s.xml">
       <configuration name="Int2RomaTest.testInt2roma" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="Int2RomaTest_testInt2roma - 2019.10.12 at 14h 06m 48s.xml">
+      <configuration name="Int2RomaTest.testInt2roma" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Int2RomaTest_testInt2roma - 2019.10.12 at 14h 07m 24s.xml">
+      <configuration name="Int2RomaTest.testInt2roma" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="42178000" />
+    <option name="totallyTimeSpent" value="45334000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="0" />
-    <editor active="true" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="1" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.28971255" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2987897" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -429,7 +439,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3590164" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3590164" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -445,7 +455,7 @@
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="right" id="Theme Preview" order="4" />
-      <window_info anchor="right" id="Maven" order="5" />
+      <window_info active="true" anchor="right" id="Maven" order="5" visible="true" weight="0.32980332" />
       <window_info anchor="right" id="Capture Analysis" order="6" />
       <window_info anchor="right" id="Palette&#9;" order="7" />
       <window_info anchor="right" id="SciView" order="8" weight="0.32980332" />
@@ -459,20 +469,14 @@
     <MESSAGE value="find longest non-re sub-seq length." />
     <MESSAGE value="find longest length retry sub seq." />
     <MESSAGE value="1.Is retry number?&#10;2.atoi.&#10;3.Pattern match." />
-    <option name="LAST_COMMIT_MESSAGE" value="1.Is retry number?&#10;2.atoi.&#10;3.Pattern match." />
+    <MESSAGE value="1.int2Roma&#10;2.Roma2Int&#10;3.MaxWaterVolume" />
+    <option name="LAST_COMMIT_MESSAGE" value="1.int2Roma&#10;2.Roma2Int&#10;3.MaxWaterVolume" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/main/java/test/CalculateTest.java" />
     <entry file="file://$PROJECT_DIR$/src/test/java/calTest.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/Calculate.java" />
     <entry file="file://$PROJECT_DIR$/src/test/java/CalculateTest.java" />
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="400">
-          <caret line="16" column="23" selection-start-line="16" selection-start-column="23" selection-end-line="16" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/LongestNonReSubSeqTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="310">
@@ -518,13 +522,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Atoi.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="9" column="32" selection-start-line="9" selection-start-column="32" selection-end-line="9" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/ReverseNum.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="125">
@@ -533,13 +530,6 @@
             <element signature="e#77#78#0" expanded="true" />
             <element signature="e#105#106#0" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/AtoiTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="725">
-          <caret line="33" column="28" selection-start-line="33" selection-start-column="28" selection-end-line="33" selection-end-column="28" />
         </state>
       </provider>
     </entry>
@@ -603,6 +593,77 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/MaxWaterVolume.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="525">
+          <caret line="24" column="22" selection-start-line="24" selection-start-column="22" selection-end-line="24" selection-end-column="22" />
+          <folding>
+            <element signature="e#106#107#0" expanded="true" />
+            <element signature="e#146#147#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/MaxWaterVolumeTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="825">
+          <caret line="37" column="2" selection-start-line="37" selection-start-column="2" selection-end-line="37" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Roma2Int.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="650">
+          <caret line="30" column="21" selection-start-line="30" selection-start-column="21" selection-end-line="30" selection-end-column="21" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#242#261#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/Roma2IntTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="6" column="4" selection-start-line="6" selection-start-column="4" selection-end-line="6" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="400">
+          <caret line="16" column="23" selection-start-line="16" selection-start-column="23" selection-end-line="16" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/AtoiTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="725">
+          <caret line="33" column="28" selection-start-line="33" selection-start-column="28" selection-end-line="33" selection-end-column="28" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Int2Roma.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1800">
+          <caret line="74" column="9" selection-start-line="74" selection-start-column="9" selection-end-line="74" selection-end-column="9" />
+          <folding>
+            <element signature="e#73#74#0" expanded="true" />
+            <element signature="e#101#102#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/Int2RomaTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="725">
+          <caret line="33" column="14" selection-start-line="33" selection-start-column="14" selection-end-line="33" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/LongestNonReSubSeq.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="250">
@@ -615,61 +676,8 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/MaxWaterVolume.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="246">
-          <caret line="24" column="22" selection-start-line="24" selection-start-column="22" selection-end-line="24" selection-end-column="22" />
-          <folding>
-            <element signature="e#106#107#0" expanded="true" />
-            <element signature="e#146#147#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/MaxWaterVolumeTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="35" column="19" selection-start-line="35" selection-start-column="19" selection-end-line="35" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Roma2Int.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="191">
-          <caret line="30" column="21" selection-start-line="30" selection-start-column="21" selection-end-line="30" selection-end-column="21" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#84#85#0" expanded="true" />
-            <element signature="e#103#104#0" expanded="true" />
-            <element signature="e#242#261#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/Int2RomaTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="235">
-          <caret line="35" column="26" selection-start-line="35" selection-start-column="26" selection-end-line="35" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Int2Roma.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="74" column="9" lean-forward="true" selection-start-line="74" selection-start-column="9" selection-end-line="74" selection-end-column="9" />
-          <folding>
-            <element signature="e#73#74#0" expanded="true" />
-            <element signature="e#92#93#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/Roma2IntTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="475">
-          <caret line="38" lean-forward="true" selection-start-line="38" selection-end-line="38" />
-        </state>
-      </provider>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Atoi.java">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
   <component name="masterDetails">
