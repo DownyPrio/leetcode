@@ -7,6 +7,8 @@ public class zShapeString {
     }
     public String testZStr() {
         String res = "";
+		if(num==0)
+			return str;
         for (int i = 0; i < num; i++) {
             String tmpStr = "";
             if (i == 0) {
