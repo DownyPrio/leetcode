@@ -4,7 +4,7 @@ public class LongestRetryDocSubSeq {
         this.str=str;
     }
 
-    public int findLongest(){
+    public String findLongest(){
 		String tmpStr=str;
         tmpStr=tmpStr.replace("","#").trim();
         tmpStr="/"+tmpStr;
@@ -73,6 +73,6 @@ public class LongestRetryDocSubSeq {
         // int R=maxLen;
         maxLen=maxLen-1;
         maxStart=(maxStart-maxLen-1)/2;
-        return s.substring(maxStart,maxStart+maxLen);
+        return str.substring(maxStart,maxStart+maxLen);
     }
 }
